@@ -1,2 +1,2 @@
-sout("this is my first GIT");
+sout("this is a my first GIT");
 hello git!!!
